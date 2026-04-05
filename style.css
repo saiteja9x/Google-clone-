@@ -1,0 +1,15 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+ body{
+  text-align: center;
+  
+}
+#btn{
+  border-radius: 9px;
+  width: 100%;
+}
+.btn1,.btn2{
+  margin: 20px;
+}
